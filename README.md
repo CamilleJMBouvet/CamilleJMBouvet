@@ -10,9 +10,9 @@
 
 - ⚡ Fun fact - **I speak 4 (human) languages**
 
-- 📄 My 42 piscine results - 
+- 📄 My current **42 projects** - [**Here**](https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa)
+- 🏊 My **42 piscine** results - 
 <a href="https://github.com/CamilleJMBouvet/Piscine-42-Lisboa/blob/main/README.md">**Here**</a>
-
 -  📫 How to reach me - **camille-bouvet@hotmail.fr**
 
 <h3 align="left">Connect with me:</h3>
