@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/fSd8QzX/Teal-Grey-Blue-Trendy-Retro-Digitalism-Creative-Presentation-1.jpg">
+<img src="[https://i.ibb.co/fSd8QzX/Teal-Grey-Blue-Trendy-Retro-Digitalism-Creative-Presentation-1.jpg](https://i.ibb.co/fSd8QzX/Teal-Grey-Blue-Trendy-Retro-Digitalism-Creative-Presentation-1.jpg)">
 <h1 align="center">I'm Camille :)</h1>
 <h3 align="center">42-Lisboa student and aspiring programmer</h3>
 
