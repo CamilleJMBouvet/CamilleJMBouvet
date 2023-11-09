@@ -1,7 +1,8 @@
 <img src="https://i.postimg.cc/fbKD2Qbh/fractol.png">
-<h1 align="center">Welcome</h1>
-<h3 align="center">42-Lisboa student and aspiring programmer</h3>
+<h1 align="center">Welcome to my GitHub</h1>
+<h3 align="center">My 42 cursus:<br><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/cbouvet?1337Badge=off&UM6P=off" alt="cbouvet's 42 stats" /></a></h3>
 
+<br>
 - 🔭 I’m looking for - **a part-time opportunity in tech**
 
 - 🌱 I’m currently learning - **C**
