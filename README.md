@@ -1,5 +1,5 @@
-<img src="https://i.postimg.cc/Nf7JrsCY/Fract-ol-banner.png">
-<h1 align="center">I'm Camille :)</h1>
+<img src="https://i.postimg.cc/fbKD2Qbh/fractol.png">
+<h1 align="center">Welcome</h1>
 <h3 align="center">42-Lisboa student and aspiring programmer</h3>
 
 - 🔭 I’m looking for - **a part-time opportunity in tech**
