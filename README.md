@@ -1,20 +1,18 @@
-<img src="https://i.postimg.cc/fbKD2Qbh/fractol.png">
-<h1 align="center">Welcome to my GitHub</h1>
+<img src="https://i.postimg.cc/fbKD2Qbh/fractol.png"></img>
+
+<h3 align="center">Looking for a part-time opportunity<br>Starting Feb 2024<br>
+____________________________________________________________<br></h3>
+
+<p align="center">FR-EN-ES-PT<br>
+  Enjoying my newly-found passion for programming, and excited to learn more!<br>
+  Enrolled in 42-Lisboa since April 2023<br></p>
+
 <h3 align="center">My 42 cursus:<br><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/cbouvet?1337Badge=off&UM6P=off" alt="cbouvet's 42 stats" /></a></h3>
 
-<br>
-- 🔭 I’m looking for - **a part-time opportunity in tech**
-
-- 🌱 I’m currently learning - **C**
-
-- 👨‍💻 I want to learn - **C++, Python**
-
-- ⚡ Fun fact - **I speak 4 (human) languages**
-
-- 📄 My current **42 projects** - [**Here**](https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa)
-- 🏊 My **42 piscine** results - 
-<a href="https://github.com/CamilleJMBouvet/Piscine-42-Lisboa/blob/main/README.md">**Here**</a>
--  📫 How to reach me - **camille-bouvet@hotmail.fr**
+<p align="center"><br>📄 My current **42 projects** - <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa">Here</a><br>
+  🏊 My **42 piscine** results
+<a href="https://github.com/CamilleJMBouvet/Piscine-42-Lisboa/blob/main/README.md">Here</a><br>
+____________________________________________________________</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
