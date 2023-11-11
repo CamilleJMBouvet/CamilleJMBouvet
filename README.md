@@ -1,18 +1,22 @@
 <img src="https://i.postimg.cc/fbKD2Qbh/fractol.png"></img>
 
-<h3 align="center">Looking for a part-time opportunity<br>Starting Feb 2024<br>
-____________________________________________________________<br></h3>
-
+<h3 align="center">Looking for a part-time opportunity<br>Starting Feb 2024<br></h3>
 <p align="center">FR-EN-ES-PT<br>
-  Enjoying my newly-found passion for programming, and excited to learn more!<br>
-  Enrolled in 42-Lisboa since April 2023<br></p>
+  Enjoying my newly-found passion for programming, and excited to learn more!<br></p>
+  
+___________________
 
-<h3 align="center">My 42 cursus:<br><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/cbouvet?1337Badge=off&UM6P=off" alt="cbouvet's 42 stats" /></a></h3>
+<p align="center">Enrolled in 42-Lisboa since April 2023</p>
 
-<p align="center"><br>📄 My current **42 projects** - <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa">Here</a><br>
-  🏊 My **42 piscine** results
-<a href="https://github.com/CamilleJMBouvet/Piscine-42-Lisboa/blob/main/README.md">Here</a><br>
-____________________________________________________________</p>
+<h3 align="center">My 42 cursus:<br><br><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/cbouvet?1337Badge=off&UM6P=off" alt="cbouvet's 42 stats" /></a></h3>
+
+<p align="center"><br>CHECK OUT:<br>
+  📄 My current 42 projects - <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa">Here</a> 📄<br>
+  🏊 My 42 piscine results
+<a href="https://github.com/CamilleJMBouvet/Piscine-42-Lisboa/blob/main/README.md">Here</a> 🏊<br></p>
+
+___________________
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
