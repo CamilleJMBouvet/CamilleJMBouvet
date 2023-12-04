@@ -16,12 +16,12 @@ ___________________
   🏊 My 42 piscine results - <a href="https://github.com/CamilleJMBouvet/Piscine-42-Lisboa/blob/main/README.md">Here</a> 🏊<br><br></p>
   
 <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/Libft"><img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/libftm.png"></img>
-<img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/ft_printfe.png"></img>
-<img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/get_next_linem.png"></img>
+<a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/ft_printf"><img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/ft_printfe.png"></img>
+<a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/get_next_line"><img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/get_next_linem.png"></img>
 <img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/born2beroote.png"></img>
-<img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/push_swape.png"></img>
-<img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/fract-olm.png"></img>
-<img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/pipexm.png"></img>
+<a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/push_swap"><img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/push_swape.png"></img>
+<a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/fract-ol"><img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/fract-olm.png"></img>
+<a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/pipex"><img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/pipexm.png"></img>
 
 ___________________
 
