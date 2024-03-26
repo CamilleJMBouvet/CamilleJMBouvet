@@ -18,7 +18,7 @@ ___________________
 <h3 align="center">__________</h3>
 <h3 align="center">VALIDATED PROJECTS:<br></h3>
 <h3 align="center">
-   <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/pipex"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/minishelle.png"></img>
+   <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/minishell"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/minishelle.png"></img>
   <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/pipex"><img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/pipexm.png"></img>
   <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/fract-ol"><img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/fract-olm.png"></img>
   <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/push_swap"><img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/push_swape.png"></img>
