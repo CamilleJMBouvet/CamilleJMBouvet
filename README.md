@@ -13,7 +13,8 @@ ___________________
 <h3 align="center">__________</h3>
 <h3 align="center">WORK IN PROGRESS:<br></h3>
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/philosopherse.png"></img></h3>
+  <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/philosopherse.png"></img>
+  <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/cppe.png"></img></h3>
 
 <h3 align="center">__________</h3>
 <h3 align="center">VALIDATED PROJECTS:<br></h3>
