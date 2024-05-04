@@ -1,5 +1,5 @@
-<img src="https://i.postimg.cc/fTg7y4Bd/GHbanner-1.png"></img>
-<!-- "https://i.postimg.cc/fTg7y4Bd/GHbanner-1.png" -->
+<img src="https://i.postimg.cc/bwV2vTBL/Git-Hub-banner.png"></img>
+<!-- "https://i.postimg.cc/bwV2vTBL/Git-Hub-banner.png" -->
 
 <h3 align="center">🇫🇷 | 🇬🇧 | 🇪🇸 | 🇵🇹<br></h3>
 <p align="center">Multilingual Tech Enthousiast<br>Interests: Blockchain, Web3, AI, Machine Learning, IoT, Cybersecurity</p>
