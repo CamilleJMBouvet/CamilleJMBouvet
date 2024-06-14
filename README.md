@@ -13,11 +13,12 @@ ___________________
 <h3 align="center">__________</h3>
 <h3 align="center">WORK IN PROGRESS:<br></h3>
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/cub3de.png"></img><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/netpracticee.png"></img></h3>
+  <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/netpracticee.png"></img></h3>
 
 <h3 align="center">__________</h3>
-<h3 align="center">VALIDATED PROJECTS:<br></h3>
+<h3 align="center">SUCCESSFULLY COMPLETED PROJECTS:<br></h3>
 <h3 align="center">
+  <a href=https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/cub3d><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/cub3de.png"></img>
   <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/CPP_part1"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/cppm.png"></img>
   <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/philo"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/philosopherse.png"></img>
   <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/minishell"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/minishelle.png"></img>
