@@ -16,7 +16,7 @@ ___________________
   <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/netpracticee.png"></img></h3>
 
 <h3 align="center">__________</h3>
-<h3 align="center">SUCCESSFULLY COMPLETED PROJECTS:<br></h3>
+<h3 align="center">SUCCESSFULLY COMPLETED:<br></h3>
 <h3 align="center">
   <a href=https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/cub3d><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/cub3de.png"></img>
   <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/CPP_part1"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/cppm.png"></img>
