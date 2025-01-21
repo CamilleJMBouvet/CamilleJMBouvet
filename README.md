@@ -52,6 +52,6 @@ ___________________
 
 
 ___________________
-<i>Project icons: MIT License | Copyright (c) 2023 @Cadets for Cadets</i>
+<i>Project icons: Copyright (c) 2023 @Cadets for Cadets</i>
 
 ___________________
