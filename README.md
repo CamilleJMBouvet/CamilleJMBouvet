@@ -20,7 +20,7 @@ ___________________
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/netpracticee.png"></img>
   <a href=https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/cub3d><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/cub3de.png"></img>
-  <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/CPP_part1"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/cppm.png"></img>
+  <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/C%2B%2B%20Modules"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/cppm.png"></img>
   <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/philo"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/philosopherse.png"></img>
   <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/minishell"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/minishelle.png"></img>
   <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/pipex"><img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/pipexm.png"></img>
