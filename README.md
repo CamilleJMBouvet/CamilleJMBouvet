@@ -1,23 +1,33 @@
 <img src="https://i.postimg.cc/bwV2vTBL/Git-Hub-banner.png"></img>
 <!-- "https://i.postimg.cc/bwV2vTBL/Git-Hub-banner.png" -->
 
-<h3 align="center">🇫🇷 | 🇬🇧 | 🇪🇸 | 🇵🇹<br></h3>
-<p align="center">Multilingual Tech Enthousiast<br>Interests: Blockchain, Web3, AI, Machine Learning, IoT, Cybersecurity</p>
-  
+<h3 align="center">🇫🇷 | 🇬🇧 | 🇪🇸 | 🇵🇹 | 🇮🇹<br></h3>
+
+
 ___________________
 
-<p align="center">Enrolled in 42-Lisboa since April 2023</p>
+
+
+<h3 align="center">💻 Tech Stack 💻</h3>
+<p align="center">
+  <a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bash-Dark.svg" alt="Bash" width="40" height="40"/></a> 
+  <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg" alt="C" width="40" height="40"/></a>
+  <a href="https://cplusplus.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" alt="C++" width="40" height="40"/></a>
+  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://github.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" alt="GitHub" width="40" height="40"/></a>
+  <a href="https://html.spec.whatwg.org/multipage/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" alt="HTML" width="40" height="40"/></a>
+  <a href="https://ubuntu.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Ubuntu-Dark.svg" alt="Ubuntu" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" alt="VSCode" width="40" height="40"/></a>
+</p>
+  
+___________________
+<h3 align="center">⭐ Projects ⭐</h3>
+
 <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa"><img src="https://i.postimg.cc/3JL1G0Jd/Common-core-1.png"></img>
 <!-- "https://i.postimg.cc/fTg7y4Bd/GHbanner-1.png" -->
-  
-<h3 align="center">__________</h3>
-<h3 align="center">WORK IN PROGRESS:<br></h3>
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/ft_transcendencee.png"></img></h3>
 
-<h3 align="center">__________</h3>
-<h3 align="center">SUCCESSFULLY COMPLETED:<br></h3>
 <h3 align="center">
+  <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/ft_transcendencee.png"></img>
   <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/ft_irc"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/ft_irce.png"></img>
   <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/Inception"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/inceptione.png"></img>
   <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/netpracticee.png"></img>
@@ -35,25 +45,6 @@ ___________________
 
 ___________________
 
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bash-Dark.svg" alt="Bash" width="40" height="40"/></a> 
-  <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://cplusplus.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://github.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" alt="GitHub" width="40" height="40"/></a>
-  <a href="https://html.spec.whatwg.org/multipage/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" alt="HTML" width="40" height="40"/></a>
-  <a href="https://ubuntu.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Ubuntu-Dark.svg" alt="Ubuntu" width="40" height="40"/></a>
-  <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" alt="VSCode" width="40" height="40"/></a>
-</p>
-
-___________________
-
 <h3 align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=camillejmbouvet&" alt="camillejmbouvet"</img></h3>
-
-
-___________________
-<i>Project icons: Copyright (c) 2023 @Cadets for Cadets</i>
 
 ___________________
