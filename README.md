@@ -15,8 +15,8 @@ ___________________
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></img>
   <img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white"></img>
   <br>
-  <img src="https://img.shields.io/badge/vault-black?style=for-the-badge&logo=vault"></img>
   <img src="https://img.shields.io/badge/modsecurity-blue?style=for-the-badge&logo=owasp"></img>
+  <img src="https://img.shields.io/badge/vault-black?style=for-the-badge&logo=vault"></img>
   <img src="https://img.shields.io/badge/nginx-darkgreen?style=for-the-badge&logo=nginx"></img>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></img>
   <br>
