@@ -59,34 +59,34 @@ ___________________
       <h3 align="center">
       <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/ft_transcendencee.png" width=90></img>
       <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/ft_irc">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/ft_irce.png" width=90></img>
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/ft_irce.png" width=80></img>
       <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/Inception">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/inceptione.png" width=90></img>
-      <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/netpracticee.png" width=90></img>
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/inceptione.png" width=80></img>
+      <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/netpracticee.png" width=80></img>
       <a href=https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/cub3d>
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/cub3de.png" width=90></img>
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/cub3de.png" width=80></img>
       <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/C%2B%2B%20Modules">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/cppm.png" width=90></img>
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/cppm.png" width=80></img>
       <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/philo">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/philosopherse.png" width=90></img>
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/philosopherse.png" width=80></img>
       <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/minishell">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/minishelle.png" width=90></img>
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/minishelle.png" width=80></img>
       <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/pipex">
-        <img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/pipexm.png" width=90></img>
+        <img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/pipexm.png" width=80></img>
       <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/fract-ol">
-        <img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/fract-olm.png" width=90></img>
+        <img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/fract-olm.png" width=80></img>
       <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/push_swap">
-        <img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/push_swape.png" width=90></img>
-      <img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/born2beroote.png" width=90></img>
+        <img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/push_swape.png" width=80></img>
+      <img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/born2beroote.png" width=80></img>
       <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/get_next_line">
-        <img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/get_next_linem.png" width=90></img>
+        <img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/get_next_linem.png" width=80></img>
       <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/ft_printf">
-        <img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/ft_printfe.png" width=90></img>
+        <img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/ft_printfe.png" width=80></img>
       <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/Libft">
-        <img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/libftm.png" width=90></img></h3>
+        <img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/libftm.png" width=80></img></h3>
     </td>
     <td width="50%" valign="top">
-      <img src="https://i.postimg.cc/gJKMMCdV/wip.gif" width=400></img>
+      <img src="https://i.postimg.cc/gJKMMCdV/wip.gif" width=390></img>
     </td>
   </tr>
 </table>
