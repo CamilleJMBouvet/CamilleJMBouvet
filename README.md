@@ -34,8 +34,6 @@ ___________________
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></img>
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"></img>
   <img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white"></img>
-  <br>
-  <img src="https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white"></img>
   
 </p>
 
