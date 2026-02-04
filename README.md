@@ -86,7 +86,7 @@ ___________________
         <img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/libftm.png" width=90></img></h3>
     </td>
     <td width="50%" valign="top">
-      <img src="https://i.postimg.cc/gJKMMCdV/wip.gif" width=470></img>
+      <img src="https://i.postimg.cc/gJKMMCdV/wip.gif" width=400></img>
     </td>
   </tr>
 </table>
