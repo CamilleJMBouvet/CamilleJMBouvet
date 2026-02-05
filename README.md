@@ -55,8 +55,9 @@ ___________________
     <td width="50%" valign="top">
       <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa"><img src="https://i.postimg.cc/23NfQpx3/academic-projects-1.png" width=500></img></a>
       <h3 align="center">
-      <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/ft_transcendencee.png" width=75></img>
-      <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/ft_irc">
+      <a href="https://github.com/Best-transcendence/ft_transcendence/tree/185e290923b3d73b631f0ea9eb8e0def29420350">
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/ft_transcendencee.png" width=75></img>
+      <a href="https://github.com/diegosou4/Ft_Irc/tree/382e925aefe3e29f028565b5fc234aa3f82de8bb">
         <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/ft_irce.png" width=75></img>
       <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/Inception">
         <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/inceptione.png" width=75></img>
